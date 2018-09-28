@@ -1,4 +1,12 @@
 # 一行代码了事
-___
+1、获取Android唯一ID
 
-1、
+```java
+import android.provider.Settings.Secure;
+
+private String android_id = Secure.getString(getContext().getContentResolver(),
+                                                        Secure.ANDROID_ID); 
+```
+
+
+
