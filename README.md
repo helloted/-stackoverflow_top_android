@@ -6,4 +6,5 @@ stackoverflow上Votes数排名靠前的部分问题整理
 2. [px,dip,dp,sp之间的区别？](https://github.com/helloted/stackoverflow_top_android/blob/master/content/what-is-the-difference-between-px-dip-dp-and-sp.md)
 3. [关闭/隐藏安卓软键盘](https://github.com/helloted/stackoverflow_top_android/blob/master/content/close-hide-the-android-soft-keyboard.md)
 4. [保存Activity State](https://github.com/helloted/stackoverflow_top_android/blob/master/content/saving-android-activity-state-using-save-instance-state.md)
+5. [修复android.os.NetworkOnMainThreadException](https://github.com/helloted/stackoverflow_top_android/blob/master/content/how-do-i-fix-android-os-networkonmainthreadexception.md)
 
