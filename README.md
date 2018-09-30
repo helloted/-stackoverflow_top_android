@@ -7,4 +7,5 @@ stackoverflow上Votes数排名靠前的部分问题整理
 3. [关闭/隐藏安卓软键盘](https://github.com/helloted/stackoverflow_top_android/blob/master/content/close-hide-the-android-soft-keyboard.md)
 4. [保存Activity State](https://github.com/helloted/stackoverflow_top_android/blob/master/content/saving-android-activity-state-using-save-instance-state.md)
 5. [修复android.os.NetworkOnMainThreadException](https://github.com/helloted/stackoverflow_top_android/blob/master/content/how-do-i-fix-android-os-networkonmainthreadexception.md)
+6. [ListView中图片异步懒加载](https://github.com/helloted/stackoverflow_top_android/blob/master/content/lazy-load-of-images-in-listview.md)
 
