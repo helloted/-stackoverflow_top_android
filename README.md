@@ -8,4 +8,5 @@ stackoverflow上Votes数排名靠前的部分问题整理
 4. [保存Activity State](https://github.com/helloted/stackoverflow_top_android/blob/master/content/saving-android-activity-state-using-save-instance-state.md)
 5. [修复android.os.NetworkOnMainThreadException](https://github.com/helloted/stackoverflow_top_android/blob/master/content/how-do-i-fix-android-os-networkonmainthreadexception.md)
 6. [ListView中图片异步懒加载](https://github.com/helloted/stackoverflow_top_android/blob/master/content/lazy-load-of-images-in-listview.md)
+7. [获取屏幕尺寸](https://github.com/helloted/stackoverflow_top_android/blob/master/content/get-screen-dimensions-in-pixels.md)
 
