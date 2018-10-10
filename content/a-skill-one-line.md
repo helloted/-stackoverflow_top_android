@@ -8,5 +8,20 @@ private String android_id = Secure.getString(getContext().getContentResolver(),
                                                         Secure.ANDROID_ID); 
 ```
 
+2、文本居中
 
+```java
+<TextView  
+    android:layout_width="match_parent" 
+    android:layout_height="match_parent" 
+    android:gravity="center"
+    android:text="@string/**yourtextstring**"
+/>
+```
+
+ 或者用代码：
+
+```
+textView.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
+```
 
