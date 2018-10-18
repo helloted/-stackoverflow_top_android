@@ -12,4 +12,5 @@ stackoverflow上Votes数排名靠前的部分问题整理
 8. [如何理解Android的Context?](https://github.com/helloted/stackoverflow_top_android/blob/master/content/what-is-context-on-android.md)
 9. [旋转时Activity会Restart?](https://github.com/helloted/stackoverflow_top_android/blob/master/content/activity-restart-on-rotation-android.md)
 10. [gravity和layout_gravity区别？](https://github.com/helloted/stackoverflow_top_android/blob/master/content/difference-between-gravity-and-layout-gravity-on-android.md)
+11. [Android Studio中的Gradle](https://github.com/helloted/stackoverflow_top_android/blob/master/content/what-is-gradle-in-android-studio.md)
 
