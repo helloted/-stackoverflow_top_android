@@ -13,4 +13,5 @@ stackoverflow上Votes数排名靠前的部分问题整理
 9. [旋转时Activity会Restart?](https://github.com/helloted/stackoverflow_top_android/blob/master/content/activity-restart-on-rotation-android.md)
 10. [gravity和layout_gravity区别？](https://github.com/helloted/stackoverflow_top_android/blob/master/content/difference-between-gravity-and-layout-gravity-on-android.md)
 11. [Android Studio中的Gradle](https://github.com/helloted/stackoverflow_top_android/blob/master/content/what-is-gradle-in-android-studio.md)
+12. [Android Studio添加一个jar库](https://github.com/helloted/stackoverflow_top_android/blob/master/content/android-studio-add-jar-as-library.md)
 
