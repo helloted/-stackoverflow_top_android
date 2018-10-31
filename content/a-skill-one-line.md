@@ -25,3 +25,11 @@ private String android_id = Secure.getString(getContext().getContentResolver(),
 textView.setGravity(Gravity.CENTER_VERTICAL | Gravity.CENTER_HORIZONTAL);
 ```
 
+3、获取当前时间日期
+
+```java
+import java.util.Calendar
+
+Date currentTime = Calendar.getInstance().getTime();
+```
+
